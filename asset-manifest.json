@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vom-landkreis-bis-ans-netz/static/css/main.f52f3e37.chunk.css",
-    "main.js": "/vom-landkreis-bis-ans-netz/static/js/main.9000caf5.chunk.js",
-    "main.js.map": "/vom-landkreis-bis-ans-netz/static/js/main.9000caf5.chunk.js.map",
+    "main.css": "/vom-landkreis-bis-ans-netz/static/css/main.49f45622.chunk.css",
+    "main.js": "/vom-landkreis-bis-ans-netz/static/js/main.cdd587b9.chunk.js",
+    "main.js.map": "/vom-landkreis-bis-ans-netz/static/js/main.cdd587b9.chunk.js.map",
     "runtime-main.js": "/vom-landkreis-bis-ans-netz/static/js/runtime-main.0c8cc185.js",
     "runtime-main.js.map": "/vom-landkreis-bis-ans-netz/static/js/runtime-main.0c8cc185.js.map",
     "static/js/2.deac5489.chunk.js": "/vom-landkreis-bis-ans-netz/static/js/2.deac5489.chunk.js",
     "static/js/2.deac5489.chunk.js.map": "/vom-landkreis-bis-ans-netz/static/js/2.deac5489.chunk.js.map",
     "index.html": "/vom-landkreis-bis-ans-netz/index.html",
-    "static/css/main.f52f3e37.chunk.css.map": "/vom-landkreis-bis-ans-netz/static/css/main.f52f3e37.chunk.css.map",
+    "static/css/main.49f45622.chunk.css.map": "/vom-landkreis-bis-ans-netz/static/css/main.49f45622.chunk.css.map",
     "static/js/2.deac5489.chunk.js.LICENSE.txt": "/vom-landkreis-bis-ans-netz/static/js/2.deac5489.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c8cc185.js",
     "static/js/2.deac5489.chunk.js",
-    "static/css/main.f52f3e37.chunk.css",
-    "static/js/main.9000caf5.chunk.js"
+    "static/css/main.49f45622.chunk.css",
+    "static/js/main.cdd587b9.chunk.js"
   ]
 }

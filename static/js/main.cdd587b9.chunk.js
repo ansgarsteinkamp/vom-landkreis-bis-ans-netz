@@ -1,0 +1,2 @@
+(this["webpackJsonpvom-landkreis-bis-ans-netz"]=this["webpackJsonpvom-landkreis-bis-ans-netz"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var s=t(1),i=t.n(s),r=t(3),c=t.n(r),a=(t(8),t(0)),o=function(){return Object(a.jsx)("h1",{className:"text-red-800",children:"Vom Landkreis bis ans Netz"})};c.a.render(Object(a.jsx)(i.a.StrictMode,{children:Object(a.jsx)(o,{})}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.cdd587b9.chunk.js.map
